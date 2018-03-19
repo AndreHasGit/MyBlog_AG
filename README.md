@@ -1,3 +1,3 @@
 # MyBlog_AG
 its a blog wow
-<a href="">Why not visit it?</a>
+<a href="https://andrehasgit.github.io/MyBlog_AG/">Why not visit it?</a>
